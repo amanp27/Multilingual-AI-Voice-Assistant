@@ -2,7 +2,9 @@
 
 🌟 Overview
 
-This project is a voice-enabled AI assistant that combines cutting-edge generative AI with speech processing to interact naturally with users. Speak, and the assistant will transcribe your voice to text, generate intelligent responses using Google Gemini LLM (DeepMind), and respond back in clear audio.
+This project is a multilingual voice-enabled AI assistant that combines cutting-edge generative AI with speech processing to interact naturally with users. Speak, and the assistant will transcribe your voice to text, generate intelligent responses using Google Gemini LLM (DeepMind), and respond back in clear audio.
+
+It supports English, Hindi, Marathi, Gujarati, and 50+ other languages, making it highly versatile and accessible.
 
 Designed to be robust, interactive, and user-friendly, with a sleek Streamlit UI for seamless interaction.
 
@@ -10,6 +12,8 @@ Designed to be robust, interactive, and user-friendly, with a sleek Streamlit UI
 
 ## 🚀 Features
 
+* 🔮 Multilingual Support: Understands and responds in multiple languages, enhancing accessibility.
+  
 * 🔊 Text-to-Speech (TTS): Generates natural-sounding audio responses with gTTS
 
 * 🤖 Intelligent Responses: Uses Google Gemini LLM for context-aware answers
@@ -74,3 +78,26 @@ streamlit run app.py
 * Demonstrates Generative AI with real-time voice interaction 💡
 
 
+## 🧪 Practice & Experiment Files
+
+* The repository includes a folder named asr_practice_files, containing:
+
+* Audio Samples: Various audio files used for testing and training.
+
+* Transcriptions: Corresponding text files with transcriptions of the audio samples.
+
+* Scripts: Python scripts for processing and analyzing the audio data.
+
+These resources demonstrate the foundational work done to understand and implement Speech-to-Text and Text-to-Speech functionalities.
+
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE
+ file for details.
+
+## 👤 Author
+
+Aman Prajapati – Data Scientist | AI/ML Enthusiast | Generative AI Developer
+
+amanprajapati22@gmail.com

@@ -80,7 +80,7 @@ streamlit run app.py
 
 ## 🧪 Practice & Experiment Files
 
-* The repository includes a folder named asr_practice_files, containing:
+* The repository includes a folder named `asr_practice_files`, containing:
 
 * Audio Samples: Various audio files used for testing and training.
 

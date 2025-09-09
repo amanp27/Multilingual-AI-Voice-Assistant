@@ -1,4 +1,4 @@
-# 🎙️ Multilingual Voice-Based AI Assistant using Google Gemini LLM 🤖
+# Multilingual Voice-Based AI Assistant using Google Gemini LLM 🤖
 
 🌟 Overview
 
